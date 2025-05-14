@@ -1,2 +1,3 @@
-# Proyecto Web Huerta
-Contenido completo del README generado anteriormente.
+# Huerta2025
+
+Aplicación web para planificación y mantenimiento de tu huerta.
