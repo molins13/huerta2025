@@ -1,0 +1,296 @@
+[
+  {
+    "Fecha": "12/05/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Té de Compost"
+  },
+  {
+    "Fecha": "12/05/2025",
+    "Tarea": "Riego pro",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Manguera, cubo"
+  },
+  {
+    "Fecha": "13/05/2025",
+    "Tarea": "Entutorado",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Cañas, cuerdas"
+  },
+  {
+    "Fecha": "19/05/2025",
+    "Tarea": "Deshoje",
+    "Recomendación": "Mañana (< 25 min)",
+    "Materiales": "Tijeras, guantes"
+  },
+  {
+    "Fecha": "19/05/2025",
+    "Tarea": "Acolchado",
+    "Recomendación": "Mañana (< 40 min)",
+    "Materiales": "Paja, cubrir suelo"
+  },
+  {
+    "Fecha": "26/05/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Purín de Ortiga"
+  },
+  {
+    "Fecha": "26/05/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Jabón potásico"
+  },
+  {
+    "Fecha": "02/06/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 20 min)",
+    "Materiales": "Purín, reg. ideal en floración"
+  },
+  {
+    "Fecha": "02/06/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Tierra de diatomeas"
+  },
+  {
+    "Fecha": "09/06/2025",
+    "Tarea": "Revisión",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Lupa, observar hojas"
+  },
+  {
+    "Fecha": "09/06/2025",
+    "Tarea": "Riego pro",
+    "Recomendación": "Mañana (< 40 min)",
+    "Materiales": "Agua, reg. En la mañana"
+  },
+  {
+    "Fecha": "16/06/2025",
+    "Tarea": "Entutorado",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Cañas, atar sin apretar"
+  },
+  {
+    "Fecha": "16/06/2025",
+    "Tarea": "Deshoje",
+    "Recomendación": "Mañana (< 25 min)",
+    "Materiales": "Tijeras Solo hojas bajas"
+  },
+  {
+    "Fecha": "23/06/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Purín de Ortiga"
+  },
+  {
+    "Fecha": "23/06/2025",
+    "Tarea": "Acolchado",
+    "Recomendación": "Mañana (< 40 min)",
+    "Materiales": "Paja, cubrir base"
+  },
+  {
+    "Fecha": "30/06/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Jabón potásico Evitar pulgón"
+  },
+  {
+    "Fecha": "30/06/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Tierra de diatomeas"
+  },
+  {
+    "Fecha": "07/07/2025",
+    "Tarea": "Revisión",
+    "Recomendación": "Mañana (< 40 min)",
+    "Materiales": "Lupa, reg. ideal en floración"
+  },
+  {
+    "Fecha": "07/07/2025",
+    "Tarea": "Entutorado",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Cañas, atar sin apretar"
+  },
+  {
+    "Fecha": "14/07/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Purín de Ortiga Estimula crecimiento"
+  },
+  {
+    "Fecha": "14/07/2025",
+    "Tarea": "Deshoje",
+    "Recomendación": "Tarde (< 30 min)",
+    "Materiales": "Tijeras Solo hojas bajas"
+  },
+  {
+    "Fecha": "21/07/2025",
+    "Tarea": "Acolchado",
+    "Recomendación": "Mañana (< 40 min)",
+    "Materiales": "Paja, cubrir base"
+  },
+  {
+    "Fecha": "21/07/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Purín, reg. Ideal en floración"
+  },
+  {
+    "Fecha": "28/07/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Tierra de diatomeas Evitar mosca blanca"
+  },
+  {
+    "Fecha": "28/07/2025",
+    "Tarea": "Cosecha",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Tijeras o Evitar dañar la planta"
+  },
+  {
+    "Fecha": "04/08/2025",
+    "Tarea": "Revisión",
+    "Recomendación": "Mañana (< 40 min)",
+    "Materiales": "Lupa, Observar el fruto"
+  },
+  {
+    "Fecha": "04/08/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Té de Compost Diluir 1:10"
+  },
+  {
+    "Fecha": "11/08/2025",
+    "Tarea": "Deshoje",
+    "Recomendación": "Tarde (< 25 min)",
+    "Materiales": "Tijeras Solo hojas bajas"
+  },
+  {
+    "Fecha": "11/08/2025",
+    "Tarea": "Entutorado",
+    "Recomendación": "Tarde (< 40 min)",
+    "Materiales": "Cañas, atar sin apretar"
+  },
+  {
+    "Fecha": "18/08/2025",
+    "Tarea": "Acolchado",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Paja, cubrir base"
+  },
+  {
+    "Fecha": "18/08/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Té de Compost Diluir 1:10"
+  },
+  {
+    "Fecha": "25/08/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Purín de Ortiga Estimular floración"
+  },
+  {
+    "Fecha": "25/08/2025",
+    "Tarea": "Cosecha",
+    "Recomendación": "Tarde (< 30 min)",
+    "Materiales": "Tijeras o Evitar dañar la planta"
+  },
+  {
+    "Fecha": "01/09/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 20 min)",
+    "Materiales": "Tierra de diatomeas Evitar pulgón"
+  },
+  {
+    "Fecha": "01/09/2025",
+    "Tarea": "Riego pro",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Agua, reg. En la mañana"
+  },
+  {
+    "Fecha": "08/09/2025",
+    "Tarea": "Revisión",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Lupa, observar hojas"
+  },
+  {
+    "Fecha": "08/09/2025",
+    "Tarea": "Entutorado",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Cañas, atar sin apretar"
+  },
+  {
+    "Fecha": "15/09/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Té de Compost Diluir 1:10"
+  },
+  {
+    "Fecha": "15/09/2025",
+    "Tarea": "Acolchado",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Paja, guardar humedad"
+  },
+  {
+    "Fecha": "22/09/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Purín de Ortiga Evitar hongos"
+  },
+  {
+    "Fecha": "22/09/2025",
+    "Tarea": "Cosecha",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Tijeras o Evitar dañar la planta"
+  },
+  {
+    "Fecha": "29/09/2025",
+    "Tarea": "Revisión",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Lupa, Observar el fruto"
+  },
+  {
+    "Fecha": "29/09/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Jabón potásico Evitar melaza"
+  },
+  {
+    "Fecha": "06/10/2025",
+    "Tarea": "Deshoje",
+    "Recomendación": "Mañana (< 25 min)",
+    "Materiales": "Tijeras Solo hojas bajas"
+  },
+  {
+    "Fecha": "06/10/2025",
+    "Tarea": "Entutorado",
+    "Recomendación": "Tarde (< 30 min)",
+    "Materiales": "Cañas, atar sin apretar"
+  },
+  {
+    "Fecha": "13/10/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Té de Compost Diluir 1:10"
+  },
+  {
+    "Fecha": "13/10/2025",
+    "Tarea": "Revisión",
+    "Recomendación": "Tarde (< 30 min)",
+    "Materiales": "Lupa, observar hojas"
+  },
+  {
+    "Fecha": "20/10/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Mañana (< 30 min)",
+    "Materiales": "Purín de Ortiga Estimula defensas"
+  },
+  {
+    "Fecha": "20/10/2025",
+    "Tarea": "Aplicación",
+    "Recomendación": "Tarde (17:20 min)",
+    "Materiales": "Jabón potásico Evitar mosca blanca"
+  }
+]

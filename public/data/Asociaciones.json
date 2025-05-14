@@ -1,0 +1,107 @@
+[
+  {
+    "Cultivo": "Tomate",
+    "Compañero Beneficioso": "Judía",
+    "Beneficios de la Asociación": "Fija nitrógeno"
+  },
+  {
+    "Cultivo": "Calabacín",
+    "Compañero Beneficioso": "Puerro",
+    "Beneficios de la Asociación": "Aleja plagas"
+  },
+  {
+    "Cultivo": "Remolacha",
+    "Compañero Beneficioso": "Lechuga",
+    "Beneficios de la Asociación": "Cubre el suelo"
+  },
+  {
+    "Cultivo": "Apio",
+    "Compañero Beneficioso": "Zanahoria",
+    "Beneficios de la Asociación": "Mejora crecimiento"
+  },
+  {
+    "Cultivo": "Pimiento",
+    "Compañero Beneficioso": "Espinaca",
+    "Beneficios de la Asociación": "Compatibilidad"
+  },
+  {
+    "Cultivo": "Berenjena",
+    "Compañero Beneficioso": "Judía",
+    "Beneficios de la Asociación": "Aporta nitrógeno"
+  },
+  {
+    "Cultivo": "Zanahoria",
+    "Compañero Beneficioso": "Cebolla",
+    "Beneficios de la Asociación": "Repelen plagas"
+  },
+  {
+    "Cultivo": "Judía de mata baja",
+    "Compañero Beneficioso": "Acelga",
+    "Beneficios de la Asociación": "No compiten"
+  },
+  {
+    "Cultivo": "Fresa",
+    "Compañero Beneficioso": "Espinaca",
+    "Beneficios de la Asociación": "Sombra y humedad"
+  },
+  {
+    "Cultivo": "Acelga",
+    "Compañero Beneficioso": "Cebolla",
+    "Beneficios de la Asociación": "Aleja plagas"
+  },
+  {
+    "Cultivo": "Espinaca",
+    "Compañero Beneficioso": "Repollo",
+    "Beneficios de la Asociación": "Rápido ciclo"
+  },
+  {
+    "Cultivo": "Lechuga",
+    "Compañero Beneficioso": "Coliflor",
+    "Beneficios de la Asociación": "Rápido desarrollo"
+  },
+  {
+    "Cultivo": "Rábano",
+    "Compañero Beneficioso": "Lechuga",
+    "Beneficios de la Asociación": "Ciclo corto"
+  },
+  {
+    "Cultivo": "Cebolla (de bulbo)",
+    "Compañero Beneficioso": "Zanahoria",
+    "Beneficios de la Asociación": "Sin competencia"
+  },
+  {
+    "Cultivo": "Repollo",
+    "Compañero Beneficioso": "Rábano",
+    "Beneficios de la Asociación": "Disminuye pulgones"
+  },
+  {
+    "Cultivo": "Coliflor",
+    "Compañero Beneficioso": "Espinaca",
+    "Beneficios de la Asociación": "Buena combinación"
+  },
+  {
+    "Cultivo": "Brócoli",
+    "Compañero Beneficioso": "Lechuga",
+    "Beneficios de la Asociación": "Diferente necesidad"
+  },
+  {
+    "Cultivo": "Escarola",
+    "Compañero Beneficioso": "Remolacha",
+    "Beneficios de la Asociación": "No compiten"
+  },
+  {
+    "Cultivo": "Puerro",
+    "Compañero Beneficioso": "Zanahoria",
+    "Beneficios de la Asociación": "Repelen la mosca"
+  },
+  {
+    "Cultivo": "Nabo",
+    "Compañero Beneficioso": "Acelga",
+    "Beneficios de la Asociación": "No compiten"
+  },
+  {
+    "Cultivo": "Mostaza variedad hoja",
+    "Compañero Beneficioso": "Rábano",
+    "Beneficios de la Asociación": "Uso interesante"
+  }
+]

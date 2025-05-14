@@ -1,0 +1,50 @@
+[
+  {
+    "Acción": "Aplicación",
+    "Descripción": "Diluir 10 ml en 1 litro de agua y pulverizar sobre las hojas."
+  },
+  {
+    "Acción": "Aplicación",
+    "Descripción": "Diluir el purín de ortiga en agua (1:10) y regar."
+  },
+  {
+    "Acción": "Aplicación",
+    "Descripción": "Diluir el té de compost en agua (1:5) y regar."
+  },
+  {
+    "Acción": "Riego profundo",
+    "Descripción": "Riego lento y abundante hasta que la tierra esté bien húmeda."
+  },
+  {
+    "Acción": "Entutorado",
+    "Descripción": "Colocar soportes (cañas, tutores) para guiar el crecimiento de la planta y atar suavemente."
+  },
+  {
+    "Acción": "Deshoje",
+    "Descripción": "Eliminar hojas amarillentas, secas o enfermas de la parte baja de la planta para mejorar la circulación del aire y prevenir enfermedades."
+  },
+  {
+    "Acción": "Acolchado",
+    "Descripción": "Cubrir la base de la planta con material orgánico (paja, hojas secas) para mantener la humedad, reducir la evaporación y suprimir el crecimiento de malas hierbas."
+  },
+  {
+    "Acción": "Revisión",
+    "Descripción": "Inspeccionar regularmente las plantas en busca de signos de plagas, enfermedades o deficiencias nutricionales."
+  },
+  {
+    "Acción": "Cosecha",
+    "Descripción": "Recoger los frutos o la parte comestible de la planta en su punto óptimo de maduración, con cuidado para no dañar la planta."
+  },
+  {
+    "Acción": "Aireación",
+    "Descripción": "Remover ligeramente la capa superior del suelo con una horca o azada pequeña para mejorar la circulación del aire y la absorción de agua."
+  },
+  {
+    "Acción": "Añadir acolchado",
+    "Descripción": "Incorporar una nueva capa de material orgánico alrededor de las plantas para los beneficios del acolchado."
+  },
+  {
+    "Acción": "Eliminar hierbas",
+    "Descripción": "Retirar manualmente las malas hierbas que compiten por los nutrientes, el agua y la luz."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "Días después de la lluvia": 1,
+    "Acción": "Inspección",
+    "Duración Estimada": "30 min",
+    "Materiales": "Bloc de notas"
+  },
+  {
+    "Días después de la lluvia": 1,
+    "Acción": "Eliminar hierbas",
+    "Duración Estimada": "45 min",
+    "Materiales": "Tijeras de jardinería"
+  },
+  {
+    "Días después de la lluvia": 2,
+    "Acción": "Aireación",
+    "Duración Estimada": "30 min",
+    "Materiales": "Horca o azada pequeña"
+  },
+  {
+    "Días después de la lluvia": 2,
+    "Acción": "Aplicación",
+    "Duración Estimada": "20 min",
+    "Materiales": "Té de compost (diluido)"
+  },
+  {
+    "Días después de la lluvia": 3,
+    "Acción": "Revisión de entutorado",
+    "Duración Estimada": "30 min",
+    "Materiales": "Cuerda (si es necesario)"
+  },
+  {
+    "Días después de la lluvia": 3,
+    "Acción": "Añadir acolchado (si es necesario)",
+    "Duración Estimada": "40 min",
+    "Materiales": "Paja, hojas secas"
+  },
+  {
+    "Días después de la lluvia": 4,
+    "Acción": "Aplicación preventiva",
+    "Duración Estimada": "20 min",
+    "Materiales": "Extracto de neem (opcional)"
+  },
+  {
+    "Días después de la lluvia": 5,
+    "Acción": "Entutorar nuevos crecimientos",
+    "Duración Estimada": "40 min",
+    "Materiales": "Estacas, cuerdas"
+  },
+  {
+    "Días después de la lluvia": 6,
+    "Acción": "Revisión general",
+    "Duración Estimada": "45 min",
+    "Materiales": "Azadón de mano (para pequeñas hierbas)"
+  }
+]

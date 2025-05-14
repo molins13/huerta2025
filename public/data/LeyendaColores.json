@@ -1,0 +1,26 @@
+[
+  {
+    "Tipo de tarea": "Revisión",
+    "Color": "#FFD700 (Amarillo)"
+  },
+  {
+    "Tipo de tarea": "Tratamiento",
+    "Color": "#FF6347 (Rojo tomate)"
+  },
+  {
+    "Tipo de tarea": "Riego",
+    "Color": "#1E90FF (Azul brillante)"
+  },
+  {
+    "Tipo de tarea": "General",
+    "Color": "#32CD32 (Verde lima)"
+  },
+  {
+    "Tipo de tarea": "Siembra",
+    "Color": "#8FBC8F (Verde oscuro)"
+  },
+  {
+    "Tipo de tarea": "Cosecha",
+    "Color": "#FFA07A (Salmón claro)"
+  }
+]

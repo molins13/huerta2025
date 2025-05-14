@@ -1,0 +1,107 @@
+[
+  {
+    "Cultivo Actual": "Tomate",
+    "Cultivo Siguiente": "Judía",
+    "Motivo": "Fija nitrógeno"
+  },
+  {
+    "Cultivo Actual": "Calabacín",
+    "Cultivo Siguiente": "Puerro",
+    "Motivo": "Aleja plagas"
+  },
+  {
+    "Cultivo Actual": "Remolacha",
+    "Cultivo Siguiente": "Lechuga",
+    "Motivo": "Cubre el suelo"
+  },
+  {
+    "Cultivo Actual": "Apio",
+    "Cultivo Siguiente": "Zanahoria",
+    "Motivo": "Mejora crecimiento"
+  },
+  {
+    "Cultivo Actual": "Pimiento",
+    "Cultivo Siguiente": "Espinaca",
+    "Motivo": "Compatibilidad"
+  },
+  {
+    "Cultivo Actual": "Berenjena",
+    "Cultivo Siguiente": "Judía",
+    "Motivo": "Aporta nitrógeno"
+  },
+  {
+    "Cultivo Actual": "Zanahoria",
+    "Cultivo Siguiente": "Cebolla",
+    "Motivo": "Repelen plagas"
+  },
+  {
+    "Cultivo Actual": "Judía de mata baja",
+    "Cultivo Siguiente": "Acelga",
+    "Motivo": "No compiten"
+  },
+  {
+    "Cultivo Actual": "Fresa",
+    "Cultivo Siguiente": "Espinaca",
+    "Motivo": "Sombra y humedad"
+  },
+  {
+    "Cultivo Actual": "Acelga",
+    "Cultivo Siguiente": "Cebolla",
+    "Motivo": "Aleja plagas"
+  },
+  {
+    "Cultivo Actual": "Espinaca",
+    "Cultivo Siguiente": "Repollo",
+    "Motivo": "Rápido ciclo"
+  },
+  {
+    "Cultivo Actual": "Lechuga",
+    "Cultivo Siguiente": "Coliflor",
+    "Motivo": "Rápido desarrollo"
+  },
+  {
+    "Cultivo Actual": "Rábano",
+    "Cultivo Siguiente": "Lechuga",
+    "Motivo": "Ciclo corto"
+  },
+  {
+    "Cultivo Actual": "Cebolla (de bulbo)",
+    "Cultivo Siguiente": "Zanahoria",
+    "Motivo": "Sin competencia"
+  },
+  {
+    "Cultivo Actual": "Repollo",
+    "Cultivo Siguiente": "Rábano",
+    "Motivo": "Disminuye pulgones"
+  },
+  {
+    "Cultivo Actual": "Coliflor",
+    "Cultivo Siguiente": "Espinaca",
+    "Motivo": "Buena combinación"
+  },
+  {
+    "Cultivo Actual": "Brócoli",
+    "Cultivo Siguiente": "Lechuga",
+    "Motivo": "Diferente necesidad"
+  },
+  {
+    "Cultivo Actual": "Escarola",
+    "Cultivo Siguiente": "Remolacha",
+    "Motivo": "No compiten"
+  },
+  {
+    "Cultivo Actual": "Puerro",
+    "Cultivo Siguiente": "Zanahoria",
+    "Motivo": "Repelen la mosca"
+  },
+  {
+    "Cultivo Actual": "Nabo",
+    "Cultivo Siguiente": "Acelga",
+    "Motivo": "No compiten"
+  },
+  {
+    "Cultivo Actual": "Mostaza variedad hoja",
+    "Cultivo Siguiente": "Rábano",
+    "Motivo": "Uso interesante"
+  }
+]
